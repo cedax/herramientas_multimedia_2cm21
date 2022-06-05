@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/herramientas_multimedia_2cm21/static/css/main.9f6eab0b.css",
+    "main.js": "/herramientas_multimedia_2cm21/static/js/main.5631f1c4.js",
+    "index.html": "/herramientas_multimedia_2cm21/index.html",
+    "main.9f6eab0b.css.map": "/herramientas_multimedia_2cm21/static/css/main.9f6eab0b.css.map",
+    "main.5631f1c4.js.map": "/herramientas_multimedia_2cm21/static/js/main.5631f1c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f6eab0b.css",
+    "static/js/main.5631f1c4.js"
+  ]
+}

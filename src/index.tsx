@@ -13,7 +13,7 @@ root.render(
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="galeria" element={<VideosPage />} />
-      <Route path="*" element={<NotFound />} />
+      <Route path="*" element={<App />} />
     </Routes>
   </BrowserRouter>
 );

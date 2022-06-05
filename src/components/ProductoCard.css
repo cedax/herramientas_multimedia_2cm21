@@ -1,0 +1,16 @@
+.imagenDiv {
+    margin-top: 2.5em;
+    width: 100%;
+    max-height: 100px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen {
+    max-width:150px;
+    max-height:100px;
+    width: auto;
+    height: auto;
+}
